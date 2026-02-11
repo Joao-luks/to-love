@@ -69,15 +69,15 @@ section {
 }
 
 section > p {
-    padding: 10px 0px;
+    padding: 70px 0px;
 }
 
 section#normal {
     font-family: var(--font1);
     text-indent: 5px;
     padding: 2vw;
-    font-size: 4vw;
-    line-height: 7vw;
+    font-size: 6vw;
+    line-height: 9vw;
 }
 
 section.fotu {
