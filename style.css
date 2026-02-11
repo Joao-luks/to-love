@@ -40,10 +40,10 @@ header {
 }
 header > h1 {
     font-family: var(--font2);
-    font-size: 8vw;
+    font-size: 15vw;
     text-shadow: 2px 2px black;
-    padding-top: 5vh;
-    padding-bottom: 8px;
+    padding-top: 8vh;
+    padding-bottom: 13px;
 }
 header > p {
     font-family: var(--font3);
